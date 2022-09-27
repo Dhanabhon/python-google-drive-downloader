@@ -14,7 +14,7 @@ Download a large file from Google Drive in Python.
 ````
 - `real_file_id` is an ID of the file to download. Example: `https://drive.google.com/file/d/1KPQP1C7N3Ka15djrFjo1c2KC68Xwz6v/view` the real file ID is `1KPQP1C7N3Ka15djrFjo1c2KC68Xwz6v`
 - `filename` is the path of the file want to save to the local drive. Example: `\User\Apple\Desktop\data.zip`
-- `client_secret_file` needs to create and download from OAuth 2.0 Client IDs from (Google Cloud)[https://console.cloud.google.com/]
+- `client_secret_file` needs to create and download from OAuth 2.0 Client IDs from [Google Cloud](https://console.cloud.google.com/)
 
 ## Step 3: Run main.py file
 ```shell
