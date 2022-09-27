@@ -23,4 +23,4 @@ Download a large file from Google Drive in Python.
 
 ## NOTE
 - The file token.json stores the user's access and refresh tokens, and is created automatically when the authorization flow completes for the first time.
-- Python Google Drive Downloader has been tested on the macOS 12.6
+- Python Google Drive Downloader has been tested on macOS 12.6 and tested to download the zip file of more than 200GB.
