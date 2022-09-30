@@ -63,4 +63,4 @@ if __name__ == '__main__':
     real_file_id = 'EDIT_HERE'
     filename = 'EDIT_HERE'
     client_secret_file = 'EDIT_HERE'
-    download_file(real_file_id=real_file_id, filename='', client_secret_file_path=client_secret_file)
+    download_file(real_file_id=real_file_id, filename=filename, client_secret_file_path=client_secret_file)
